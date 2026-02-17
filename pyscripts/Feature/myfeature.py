@@ -8,3 +8,4 @@ def my_feature():
 if __name__ == "__main__":
     result = my_feature()
     print(result)
+    print("welcome to DevAsc")
