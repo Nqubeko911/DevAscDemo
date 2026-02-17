@@ -2,7 +2,7 @@
 """
 A basic Python script template.
 """
-
+print("welcome to DEVASC")
 
 def main():
     """Main entry point of the script."""
