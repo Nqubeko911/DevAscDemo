@@ -6,6 +6,7 @@ def greet(name="World"):
 def main():
     print(greet())
     print(greet("Developer"))
+    print("Welcome to DevAsc")
 
 
 if __name__ == "__main__":
